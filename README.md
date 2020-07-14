@@ -26,6 +26,6 @@ $python2 jrf.py
 
 ==================================
 
-code by Arminn_17
-https://Arminn17.ir
-https://t.me/Arminn_17bot
+code by Armin-nrz
+https://sky-lark.ir
+https://t.me/jugh3ad
